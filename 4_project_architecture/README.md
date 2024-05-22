@@ -37,7 +37,8 @@ This project leverages several Azure services to build a scalable and efficient 
 
 ## Infrastructure Diagram
 
-![Project Diagram](bd_diagram1.png)
+![Project Diagram](https://github.com/klailatimad/AzureBigDataML-StackOverflowInsights/assets/122483291/b0af095d-1ffc-4494-af36-243b9ceadba7)
+
 
 ## Setting Up the Infrastructure
 
