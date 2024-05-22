@@ -4,4 +4,5 @@ This project demonstrates a comprehensive data engineering pipeline on Azure, ut
 
 ## Project Diagram
 
-![Project Diagram](bd_diagram1.png)
+![Project Diagram](https://github.com/klailatimad/AzureBigDataML-StackOverflowInsights/assets/122483291/f3f7b042-4f31-4222-9338-fa6c5f63aa3a)
+
