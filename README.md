@@ -14,6 +14,8 @@ Welcome to the Big Data Engineering Project on Azure repository! This project de
 6. [Data Transformation](./6_data_transformation/README.md)
 7. [Machine Learning](./7_machine_learning/README.md)
 8. [Data Visualization](./8_data_visualization/README.md)
+9. [Example Data](#example-data)
+10. [Training Data](#training-data)
 
 ## Quick Start
 
@@ -41,3 +43,35 @@ Follow the instructions in the Data Transformation and Machine Learning sections
 
 Finally, use Azure Synapse to visualize the processed data as described in the Data Visualization section.
 
+
+## Example Data
+
+To help you get started, we have included some example parquet files that represent the data used for daily ingestion. You can find these files in the `example_data` folder.
+
+### Using the Example Data
+
+1.  **Upload Example Data to Azure Blob Storage**: Upload the files from the `example_data` folder to your Azure Blob Storage container.
+    
+2.  **Configure Azure Data Factory**: Configure your Azure Data Factory pipeline to use the example data files for ingestion.
+    
+3.  **Run the Pipeline**: Run the pipeline to ingest the example data into your data lake.
+
+By following these steps, you can simulate the data ingestion process using the provided example data files.
+
+
+## Training Data
+
+We have also included a larger dataset for training the machine learning model. You can find this data in the `training_data` folder as a zip file.
+
+### Using the Training Data
+
+1.  **Unzip the Training Data**: Unzip the file in the `training_data` folder.
+    
+    ```sh   
+    unzip training_data/training_data.zip -d training_data/ 
+    ```
+2.  **Upload Training Data to Azure Blob Storage**: Upload the unzipped files to your Azure Blob Storage container.
+    
+3.  **Configure Databricks**: Configure your Databricks environment to use the training data for model training.
+    
+4.  **Train the ML Model**: Follow the instructions in the Machine Learning section to train your model using the provided data.
