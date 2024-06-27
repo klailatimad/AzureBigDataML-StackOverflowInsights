@@ -2,7 +2,7 @@
 
 ## Data Ingestion Diagram
 
-![Data Ingestion Diagram](data_ingestion_diagram.png)
+![Data Ingestion Diagram](/azure_bd_ml_project/5_data_ingestion/bd_diagram_ingest.png)
 
 ### Steps
 
