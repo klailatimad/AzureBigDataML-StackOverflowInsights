@@ -2,7 +2,7 @@
 
 ## Data Visualization Diagram
 
-![Data Visualization Diagram](/azure_bd_ml_project/8_data_visualization/bd_diagram_bi.png)
+![Data Visualization Diagram](bd_diagram_bi.png)
 
 ### Steps
 
@@ -10,20 +10,20 @@
 
    Ensure the machine learning results file (`ml_output.csv`) is stored in your Azure storage blob container.
 
-   ![ML Output File](/azure_bd_ml_project/8_data_visualization/ml_result.jpg)
+   ![ML Output File](ml_result.jpg)
 
 2. **Create Synapse Workspace and Link Storage Account**
 
    Ensure your Synapse workspace includes the storage account containing the machine learning result file.
 
-   ![Synapse Linked Storage](/azure_bd_ml_project/8_data_visualization/syn_sto_acct.jpg)
+   ![Synapse Linked Storage](syn_sto_acct.jpg)
 
 3. **Run Ad Hoc Query on CSV File**
 
    - Navigate to the file in Synapse: `Data --> Linked --> <your_storage_account> --> <your_container> --> ml_output.csv`.
    - Right-click the file and select "New SQL script --> Select Top 100 rows".
 
-   ![SQL Script Editor](/azure_bd_ml_project/8_data_visualization/open_a_new_Script.jpg)
+   ![SQL Script Editor](open_a_new_Script.jpg)
 
 4. **Modify the SQL Query**
 
