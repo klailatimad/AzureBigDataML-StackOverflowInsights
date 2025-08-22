@@ -2,7 +2,7 @@
 
 ## Data Transformation Diagram
 
-![Data Transformation Diagram](/azure_bd_ml_project/6_data_transformation/bd_diagram_transform.png)
+![Data Transformation Diagram](bd_diagram_transform.png)
 
 ### Steps
 
@@ -52,15 +52,15 @@ display(dbutils.fs.ls("/mnt/deBDProject"))
 ```
 5. **Images**:
 -   Databricks Integration Steps:
-	- ![Step 1](/azure_bd_ml_project/6_data_transformation/ws_mnt1.jpg)
-	- ![Step 2](/azure_bd_ml_project/6_data_transformation/ws_mnt2.jpg)
-	- ![Step 3](/azure_bd_ml_project/6_data_transformation/ws_mnt4.jpg)
-	- ![Step 4](/azure_bd_ml_project/6_data_transformation/ws_mnt5.jpg)
-	- ![Step 5](/azure_bd_ml_project/6_data_transformation/ws_mnt6.jpg)
-	- ![Step 6](/azure_bd_ml_project/6_data_transformation/ws_mnt7.jpg)
-	- ![Step 7](/azure_bd_ml_project/6_data_transformation/ws_mnt8.jpg)
-	- ![Step 8](/azure_bd_ml_project/6_data_transformation/ws_mnt9.jpg)
-	- ![Step 9](/azure_bd_ml_project/6_data_transformation/ws_mnt10.jpg)
-	- ![Step 10](/azure_bd_ml_project/6_data_transformation/ws_mnt11.jpg)
-	- ![Step 11](/azure_bd_ml_project/6_data_transformation/ws_mnt12.jpg)
-	- ![Step 12](/azure_bd_ml_project/6_data_transformation/ws_mnt13.jpg)
+	- ![Step 1](ws_mnt1.jpg)
+	- ![Step 2](ws_mnt2.jpg)
+	- ![Step 3](ws_mnt4.jpg)
+	- ![Step 4](ws_mnt5.jpg)
+	- ![Step 5](ws_mnt6.jpg)
+	- ![Step 6](ws_mnt7.jpg)
+	- ![Step 7](ws_mnt8.jpg)
+	- ![Step 8](ws_mnt9.jpg)
+	- ![Step 9](ws_mnt10.jpg)
+	- ![Step 10](ws_mnt11.jpg)
+	- ![Step 11](ws_mnt12.jpg)
+	- ![Step 12](ws_mnt13.jpg)
