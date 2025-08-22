@@ -2,7 +2,7 @@
 
 ## Data Ingestion Diagram
 
-![Data Ingestion Diagram](/azure_bd_ml_project/5_data_ingestion/bd_diagram_ingest.png)
+![Data Ingestion Diagram](bd_diagram_ingest.png)
 
 ### Steps
 
@@ -80,6 +80,6 @@ You can name your container as `bd-project` and create folders to manage the dat
 ### Images
 
 - Data Factory Creation Steps
-  - ![Step 1](/azure_bd_ml_project/5_data_ingestion/az_bd_ppl1.jpg)
-  - ![Step 2](/azure_bd_ml_project/5_data_ingestion/az_bd_ppl2.jpg)
-  - ![Step 3](/azure_bd_ml_project/5_data_ingestion/bd_diagram_ingest.png)
+  - ![Step 1](az_bd_ppl1.jpg)
+  - ![Step 2](az_bd_ppl2.jpg)
+  - ![Step 3](bd_diagram_ingest.png)
